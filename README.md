@@ -1,5 +1,5 @@
 # Volcanic-Eruption
-Kaggle competition to predict the eruption of volcanos given dataset of sensors
+Kaggle competition to predict the eruption of volcanos given dataset of sensors. This was part of my final project for CS675 - Machine Learning
 
 "What if scientists could anticipate volcanic eruptions as they predict the weather? While determining rain or shine days in advance is more difficult, weather reports become more accurate on shorter time scales. A similar approach with volcanoes could make a big impact. Just one unforeseen eruption can result in tens of thousands of lives lost. If scientists could reliably predict when a volcano will next erupt, evacuations could be more timely and the damage mitigated.
 
